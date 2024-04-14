@@ -1,0 +1,100 @@
+div.app-flex-container {
+    display: flex;
+    align-items: left;
+}
+
+div.app-flex-container > a {
+    margin-left: 6px;
+}
+
+div.dl1 div.upload-container {
+    height: 350px;
+    max-height: 350px;
+}
+
+div.dl2 {
+    max-height: 200px;
+}
+
+div.dl2 img {
+    max-height: 200px;
+}
+
+div.dl5 {
+    max-height: 200px;
+}
+
+div.dl5 img {
+    max-height: 200px;
+}
+
+div.video1 div.video-container {
+    height: 500px;
+}
+
+div.video2 {
+    height: 200px;
+}
+
+div.video3 {
+    height: 200px;
+}
+
+div.video4 {
+    height: 200px;
+}
+
+div.stat {
+    height: 286px;
+}
+
+div.settings-wrapper {
+    display: none;
+}
+
+.submit {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    border: var(--button-border-width) solid var(--button-primary-border-color);
+    background: var(--button-primary-background-fill);
+    color: var(--button-primary-text-color);
+    border-radius: 8px;
+    transition: all 0.3s ease;
+}
+
+.submit[disabled] {
+    cursor: not-allowed;
+    opacity: 0.6;
+}
+
+.submit:hover:not([disabled]) {
+    border-color: var(--button-primary-border-color-hover);
+    background: var(--button-primary-background-fill-hover);
+    color: var(--button-primary-text-color-hover);
+}
+
+.clear {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 8px;
+    transition: all 0.3s ease;
+}
+
+.clear[disabled] {
+    cursor: not-allowed;
+    opacity: 0.6;
+}
+
+.submit:active:not([disabled]), .clear:active:not([disabled]) {
+    transform: scale(0.98);
+}

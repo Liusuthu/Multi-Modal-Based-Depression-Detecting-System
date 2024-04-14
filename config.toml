@@ -1,0 +1,10 @@
+APP_VERSION = "0.2.0"
+FRAME_DOWNSAMPLING = 5
+
+[model_static]
+url = "https://huggingface.co/ElenaRyumina/face_emotion_recognition/resolve/main/FER_static_ResNet50_AffectNet.pt"
+path = "FER_static_ResNet50_AffectNet.pt"
+
+[model_dynamic]
+url = "https://huggingface.co/ElenaRyumina/face_emotion_recognition/resolve/main/FER_dinamic_LSTM_IEMOCAP.pt"
+path = "FER_dinamic_LSTM_IEMOCAP.pt"
