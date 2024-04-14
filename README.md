@@ -29,7 +29,7 @@ Offering some helpline in THU and Beijing.
 ### 💐Acknowledges
 ◽ Special thanks to Dr.Wei-Qiang ZHANG, director of SATLAB for his vital help.<br>
 ◽ Many thanks to Yuhang Zhao in SATLAB for offering the audio model XLSR-Chinese.<br>
-◽ Thanks to Elena Ryumina et al. for their Facial Expressions Recognition Model (https://github.com/ElenaRyumina/EMO-AffectNetModel).<br>
+◽ Thanks to Elena Ryumina et al. for their Facial Expressions Recognition Model (ElenaRyumina/EMO-AffectNetModel).<br>
 ◽ Thanks to all those friends who join the internal testing and give us feedbacks.<br>
 ◽ Thanks to all who offered help to this project.<br>
 
