@@ -33,3 +33,5 @@ Offering some helpline in THU and Beijing.
 ◽ Thanks to all those friends who join the internal testing and give us feedbacks.<br>
 ◽ Thanks to all who offered help to this project.<br>
 
+### 📜Poster
+![这是海报](/asset/poster-small.jpg "Our Poster")
