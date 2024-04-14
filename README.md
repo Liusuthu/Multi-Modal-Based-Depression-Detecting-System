@@ -34,4 +34,5 @@ Offering some helpline in THU and Beijing.
 ◽ Thanks to all who offered help to this project.<br>
 
 ### 📜Poster
+*Below is the poster of our project.*<br>
 ![这是海报](/asset/poster-small.jpg "Our Poster")
