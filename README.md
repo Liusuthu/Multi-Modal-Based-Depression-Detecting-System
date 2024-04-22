@@ -1,4 +1,4 @@
-# 📈Multi-Modal-Based-Depression-Detection-System📋
+# 📈Multi-Modal-Based-Depression-Detecting-System📋
 *-The 42nd THU Challenge Cup🏆 entry , built on the Gradio SDK framework and deployed on HuggingFace Space.*
 
 
